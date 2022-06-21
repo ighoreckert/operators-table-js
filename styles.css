@@ -1,0 +1,29 @@
+body {
+  background-color: rgba(61, 61, 223, 0.877);
+  font: normal 15pt Arial;
+  text-align: center;
+}
+
+header {
+  color: white;
+}
+
+section {
+  background-color: white;
+  border-radius: 10px;
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.37);
+  text-align: left;
+}
+
+#selTab {
+  width: 10rem;
+  height: 13rem;
+}
+
+footer {
+  color: white;
+  font-style: italic;
+}
